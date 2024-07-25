@@ -1,0 +1,93 @@
+html {
+	font-size: 62.5%;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	line-height: 1rem;
+	letter-spacing: .08rem;
+}
+
+body {
+
+	background-color: #1fc69d;
+}
+header{
+
+    background-color: aliceblue;    
+    padding-top: 3vw;
+    padding-bottom: 1vw;
+    text-align: center;
+    border-radius: 25px;
+
+}
+.name{
+    display: flex;
+	justify-content: center;
+    margin-top: inherit;
+}
+
+.list{
+    font-size: 9px;
+    font-weight: bold;
+	display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    text-align: center;
+    margin: 10px 100px;
+    padding: 5px;
+    list-style-type: none;
+}
+
+div{
+    background-color: white;
+    border-radius: 25px;
+    list-style-type: none;
+    margin: 10px 100px;
+
+}
+.Education{
+    display: flex;
+	justify-content: center;
+    margin: 10px 100px;
+    border-radius: 25px;
+    
+}
+
+.Start{
+    align-items: center; 
+    text-align: center;
+    
+}
+.info{
+    background-color: aquamarine;
+    padding: 10px 10px 11px;
+    display: flex;
+	justify-content: flex-start;
+    
+}
+
+.edu p{
+    padding: 0.5px 10px 11px;
+    display: flex;
+	justify-content: flex-start;
+    
+}
+.items{
+    background-color: pink;
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 10px 100px;
+    list-style-type: none;
+
+}
+p {
+    font-weight: bold;
+	display: flex;
+	justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    margin: 10px 100px;
+    list-style-type: none;
+
+}
